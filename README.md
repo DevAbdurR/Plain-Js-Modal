@@ -1,31 +1,29 @@
-# title(){return this.options.title||this.options.name}
+# Click to Open Modal - Practice Project
 
-Quick start:
+This is a practice project to build a "Click to Open Modal" feature using plain JavaScript. Click a button to open a modal dialog.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Demo
 
-## Development
+![image](https://github.com/DevAbdurR/Plain-Js-Modal/assets/112758727/ae4684a7-130c-4739-aa1b-d88af3d707db)
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
-```
-$ yarn watch # npm run watch
-```
+See the live project in action on provided github-pages link.
 
-## Supporting Scrimba
+## Getting Started
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+To run the project locally, follow these steps:
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+1. Clone this repository: `git clone https://github.com/DevAbdurR/Plain-Js-Modal.git`
+2. Open `index.html` in your browser.
 
-	It would also mean the world to us if you share the courses.  
+## Usage
 
-Happy Coding!
+1. Open the page and click the button to open the modal.
+2. Close the modal by clicking the close button.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit improvements or fixes.
+
+
+This project was developed as a practice exercise for building a simple "Click to Open Modal" feature using plain JavaScript. Feel free to explore and modify the code to enhance your JavaScript skills!
